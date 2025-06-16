@@ -142,4 +142,4 @@ This project is open-source and available under the MIT License.
 - [Hugging Face Transformers](https://huggingface.co/)
 - [Streamlit](https://streamlit.io/)
 - [PyTorch](https://pytorch.org/)
-- [ShelfEx]([https://shelfex.in](https://www.shelfexecution.com/)
+- [ShelfEx]([https://shelfex.in](https://www.shelfexecution.com/))
